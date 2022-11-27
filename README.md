@@ -1,3 +1,9 @@
+# Mini-C Compiler
+- A simple compiler for a C-like programming language.
+- Used ANTLR for parsing.
+- Variable initialization, math operations, conditional statements, relational and logical operations, looping, functions are implemented. 
+
+
 ## Installation
 
 ### Java:
